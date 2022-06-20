@@ -18871,7 +18871,7 @@ lZ:function lZ(a,b,c){this.d=a
 this.e=b
 this.a=c},
 Jy:function Jy(a){var _=this
-_.d="images/product/product-a1.jpg"
+_.d="assets/images/product/product-a1.jpg"
 _.e=!1
 _.a=null
 _.b=a
@@ -62868,19 +62868,19 @@ r=j.a.e
 s=A.eh("Ready To Wear",i,i,i,i,i,i)
 g=r*0.12
 o=A.a([new A.cN(0,B.ag,A.ao(f,0,0,0),B.at,5)],e)
-g=A.ca(i,A.Ep(i,A.oz(A.hR(30),A.cp("images/product/product-a1.jpg",i,i,i)),B.aZ,!1,i,i,i,i,i,i,i,i,i,i,i,new A.a6B(j),i,i,i,i,i,i),i,new A.cm(B.a7,i,i,B.be,o,i,B.L),g,i,i,g)
+g=A.ca(i,A.Ep(i,A.oz(A.hR(30),A.cp("assets/images/product/product-a1.jpg",i,i,i)),B.aZ,!1,i,i,i,i,i,i,i,i,i,i,i,new A.a6B(j),i,i,i,i,i,i),i,new A.cm(B.a7,i,i,B.be,o,i,B.L),g,i,i,g)
 o=j.a.e*0.12
 n=A.a([new A.cN(0,B.ag,A.ao(f,0,0,0),B.at,5)],e)
-o=A.ca(i,A.oz(A.hR(30),A.cp("images/product/product-a2.jpg",i,i,i)),i,new A.cm(B.a7,i,i,B.be,n,i,B.L),o,i,i,o)
+o=A.ca(i,A.oz(A.hR(30),A.cp("assets/images/product/product-a2.jpg",i,i,i)),i,new A.cm(B.a7,i,i,B.be,n,i,B.L),o,i,i,o)
 n=j.a.e*0.12
 m=A.a([new A.cN(0,B.ag,A.ao(f,0,0,0),B.at,5)],e)
-n=A.ca(i,A.oz(A.hR(30),A.cp("images/product/product-a3.jpg",i,i,i)),i,new A.cm(B.a7,i,i,B.be,m,i,B.L),n,i,i,n)
+n=A.ca(i,A.oz(A.hR(30),A.cp("assets/images/product/product-a3.jpg",i,i,i)),i,new A.cm(B.a7,i,i,B.be,m,i,B.L),n,i,i,n)
 m=j.a.e*0.12
 l=A.a([new A.cN(0,B.ag,A.ao(f,0,0,0),B.at,5)],e)
-m=A.ca(i,A.oz(A.hR(30),A.cp("images/product/product-a4.jpg",i,i,i)),i,new A.cm(B.a7,i,i,B.be,l,i,B.L),m,i,i,m)
+m=A.ca(i,A.oz(A.hR(30),A.cp("assets/images/product/product-a4.jpg",i,i,i)),i,new A.cm(B.a7,i,i,B.be,l,i,B.L),m,i,i,m)
 l=j.a.e*0.12
 k=A.a([new A.cN(0,B.ag,A.ao(f,0,0,0),B.at,5)],e)
-r=A.ca(i,A.fW(A.a([s,A.ca(i,new A.IY(B.N0,r*0.01,A.a([g,o,n,m,A.ca(i,A.oz(A.hR(30),A.cp("images/product/product-a5.jpg",i,i,i)),i,new A.cm(B.a7,i,i,B.be,k,i,B.L),l,i,i,l)],p),i),i,i,i,i,i,r*0.9)],p),B.Q,B.al,B.I),i,i,r*0.15,i,i,r)
+r=A.ca(i,A.fW(A.a([s,A.ca(i,new A.IY(B.N0,r*0.01,A.a([g,o,n,m,A.ca(i,A.oz(A.hR(30),A.cp("assets/images/product/product-a5.jpg",i,i,i)),i,new A.cm(B.a7,i,i,B.be,k,i,B.L),l,i,i,l)],p),i),i,i,i,i,i,r*0.9)],p),B.Q,B.al,B.I),i,i,r*0.15,i,i,r)
 l=j.a.e
 k=A.eh("UiTM Line Up",i,i,i,i,i,i)
 m=l*0.12
@@ -62923,7 +62923,7 @@ s.ap(new A.a6z(s))},
 $S:0}
 A.a6z.prototype={
 $0(){var s=this.a
-s.d="images/product/product-a1.jpg"
+s.d="assets/images/product/product-a1.jpg"
 s.e=!0},
 $S:0}
 A.mH.prototype={
@@ -63035,7 +63035,7 @@ n=A.l9(B.bb,A.a([s,A.fW(A.a([new A.dF(new A.aG(0,p*0.01,0,0),o,h),A.ca(B.ab,A.iv
 o=g.a
 p=o*0.18
 s=A.a([new A.cN(0,B.ag,A.ao(r,0,0,0),B.at,5)],q)
-p=A.ca(h,A.oz(A.hR(30),A.cp("images/logo.jpg",h,h,h)),h,new A.cm(B.k,h,h,B.vk,s,h,B.L),p,h,h,p)
+p=A.ca(h,A.oz(A.hR(30),A.cp("assets/images/logo.jpg",h,h,h)),h,new A.cm(B.k,h,h,B.vk,s,h,B.L),p,h,h,p)
 s=g.a
 l=$.Q7()
 q=A.a([new A.cN(0,B.ag,A.ao(r,0,0,0),B.at,5)],q)
@@ -63047,7 +63047,7 @@ m=A.u5(A.fW(A.a([new A.dF(new A.aG(0,0,0,f*0.02),n,h),new A.dF(new A.aG(0,0,0,o*
 return A.aeN(B.f0,new A.HI(!0,m,h))}}
 A.a92.prototype={
 $0(){var s=null,r=this.a.a,q=t.p
-return A.hp(A.fW(A.a([A.eh("OUR CLIENTALE",s,s,s,A.afU(s,s,s,s,s,s,s,"Actor",s,s,s,s,A.an([B.fh,new A.dD("62d4580d4d42de39d74b4087814e559b5480f30604b8d5d2929f391cda48adda",32508)],t.gm,t.Ks),s,s,s,s,s,s,B.IU,s),s,s),A.iv(A.a([A.cp("images/Clientale/client-01.png",s,s,s),A.cp("images/Clientale/client-02.png",s,s,s),A.cp("images/Clientale/client-03.png",s,s,s),A.cp("images/Clientale/client-04.png",s,s,s),A.cp("images/Clientale/client-05.png",s,s,s),A.cp("images/Clientale/client-06.png",s,s,s)],q),B.Q,B.fT,B.I),A.iv(A.a([A.cp("images/Clientale/client-07.png",s,s,s),A.cp("images/Clientale/client-08.png",s,s,s),A.cp("images/Clientale/client-09.png",s,s,s),A.cp("images/Clientale/client-10.png",s,s,s),A.cp("images/Clientale/client-11.png",s,s,s),A.cp("images/Clientale/client-12.png",s,s,s)],q),B.Q,B.fT,B.I),A.iv(A.a([A.cp("images/Clientale/client-13.png",s,s,s),A.cp("images/Clientale/client-14.png",s,s,s),A.cp("images/Clientale/client-15.png",s,s,s),A.cp("images/Clientale/client-16.png",s,s,s),A.cp("images/Clientale/client-17.png",s,s,s),A.cp("images/Clientale/client-18.png",s,s,s)],q),B.Q,B.fT,B.I)],q),B.Q,B.fS,B.I),s,r*0.9)},
+return A.hp(A.fW(A.a([A.eh("OUR CLIENTALE",s,s,s,A.afU(s,s,s,s,s,s,s,"Actor",s,s,s,s,A.an([B.fh,new A.dD("62d4580d4d42de39d74b4087814e559b5480f30604b8d5d2929f391cda48adda",32508)],t.gm,t.Ks),s,s,s,s,s,s,B.IU,s),s,s),A.iv(A.a([A.cp("assets/images/Clientale/client-01.png",s,s,s),A.cp("assets/images/Clientale/client-02.png",s,s,s),A.cp("assets/images/Clientale/client-03.png",s,s,s),A.cp("assets/images/Clientale/client-04.png",s,s,s),A.cp("assets/images/Clientale/client-05.png",s,s,s),A.cp("assets/images/Clientale/client-06.png",s,s,s)],q),B.Q,B.fT,B.I),A.iv(A.a([A.cp("assets/images/Clientale/client-07.png",s,s,s),A.cp("assets/images/Clientale/client-08.png",s,s,s),A.cp("assets/images/Clientale/client-09.png",s,s,s),A.cp("assets/images/Clientale/client-10.png",s,s,s),A.cp("assets/images/Clientale/client-11.png",s,s,s),A.cp("assets/images/Clientale/client-12.png",s,s,s)],q),B.Q,B.fT,B.I),A.iv(A.a([A.cp("assets/images/Clientale/client-13.png",s,s,s),A.cp("assets/images/Clientale/client-14.png",s,s,s),A.cp("assets/images/Clientale/client-15.png",s,s,s),A.cp("assets/images/Clientale/client-16.png",s,s,s),A.cp("assets/images/Clientale/client-17.png",s,s,s),A.cp("assets/images/Clientale/client-18.png",s,s,s)],q),B.Q,B.fT,B.I)],q),B.Q,B.fS,B.I),s,r*0.9)},
 $S:408}
 A.a93.prototype={
 $0(){var s=A.aev(new A.a91(this.a),null,t.z)
