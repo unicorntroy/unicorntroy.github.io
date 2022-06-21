@@ -63037,7 +63037,7 @@ A.m3.prototype={
 aw(){var s=$.ce,r=(s==null?$.ce=$.fe():s).eA(0,"[DEFAULT]")
 A.cT(r,$.ee(),!1)
 s=A.V0(new A.ds(r))
-return new A.JH(A.afK(s,s.ghg().kb(0,"inventory")),A.a(["assets/images/product/product-a1.jpg","assets/images/product/product-a2.jpg","assets/images/product/product-a3.jpg","assets/images/product/product-a4.jpg","assets/images/product/product-a5.jpg"],t.s),B.n)}}
+return new A.JH(A.afK(s,s.ghg().kb(0,"inventory")),A.a(["assets/images/Product/product-a1.jpg","assets/images/Product/product-a2.jpg","assets/images/Product/product-a3.jpg","assets/images/Product/product-a4.jpg","assets/images/Product/product-a5.jpg"],t.s),B.n)}}
 A.JH.prototype={
 T(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f=h.a.e,e=$.Qg(),d=B.e.aB(127.5),c=t.sq
 e=A.bF(g,g,g,new A.bM(e,g,g,g,A.a([new A.cO(0,B.aj,A.ao(d,0,0,0),B.av,5)],c),g,B.I),f*0.09,g,g,g)
@@ -63050,27 +63050,28 @@ r=h.a.e
 s=A.br("Ready To Wear",g,g,g,g,g,g)
 e=r*0.12
 o=A.a([new A.cO(0,B.aj,A.ao(d,0,0,0),B.av,5)],c)
-e=A.bF(g,A.Ex(g,A.oB(A.hV(30),A.jd("assets/images/product/product-a1.jpg",g,g,g)),B.b2,!1,g,g,g,g,g,g,g,g,g,g,g,new A.a6S(h),g,g,g,g,g,g),g,new A.bM(B.a9,g,g,B.bj,o,g,B.I),e,g,g,e)
+n=h.e
+e=A.bF(g,A.Ex(g,A.oB(A.hV(30),A.jd(n[0],g,g,g)),B.b2,!1,g,g,g,g,g,g,g,g,g,g,g,new A.a6S(h),g,g,g,g,g,g),g,new A.bM(B.a9,g,g,B.bj,o,g,B.I),e,g,g,e)
 o=h.a.e*0.12
-n=A.a([new A.cO(0,B.aj,A.ao(d,0,0,0),B.av,5)],c)
-o=A.bF(g,A.oB(A.hV(30),A.jd("assets/images/product/product-a2.jpg",g,g,g)),g,new A.bM(B.a9,g,g,B.bj,n,g,B.I),o,g,g,o)
-n=h.a.e*0.12
 m=A.a([new A.cO(0,B.aj,A.ao(d,0,0,0),B.av,5)],c)
-n=A.bF(g,A.oB(A.hV(30),A.jd("assets/images/product/product-a3.jpg",g,g,g)),g,new A.bM(B.a9,g,g,B.bj,m,g,B.I),n,g,g,n)
+o=A.bF(g,A.oB(A.hV(30),A.jd(n[1],g,g,g)),g,new A.bM(B.a9,g,g,B.bj,m,g,B.I),o,g,g,o)
 m=h.a.e*0.12
 l=A.a([new A.cO(0,B.aj,A.ao(d,0,0,0),B.av,5)],c)
-m=A.bF(g,A.oB(A.hV(30),A.jd("assets/images/product/product-a4.jpg",g,g,g)),g,new A.bM(B.a9,g,g,B.bj,l,g,B.I),m,g,g,m)
+m=A.bF(g,A.oB(A.hV(30),A.jd(n[2],g,g,g)),g,new A.bM(B.a9,g,g,B.bj,l,g,B.I),m,g,g,m)
 l=h.a.e*0.12
 k=A.a([new A.cO(0,B.aj,A.ao(d,0,0,0),B.av,5)],c)
-r=A.bF(g,A.eR(A.a([s,A.bF(g,new A.J6(B.N3,r*0.01,A.a([e,o,n,m,A.bF(g,A.oB(A.hV(30),A.jd("assets/images/product/product-a5.jpg",g,g,g)),g,new A.bM(B.a9,g,g,B.bj,k,g,B.I),l,g,g,l)],p),g),g,g,g,g,g,r*0.9)],p),B.x,B.af,B.u),g,g,r*0.15,g,g,r)
-l=h.a.e
-k=A.br("UiTM Line Up",g,g,g,g,g,g)
-m=l*0.12
-m=A.bF(g,g,g,new A.bM(B.a9,g,g,B.bj,A.a([new A.cO(0,B.aj,A.ao(d,0,0,0),B.av,5)],c),g,B.I),m,g,g,m)
-n=h.a.e*0.12
+l=A.bF(g,A.oB(A.hV(30),A.jd(n[3],g,g,g)),g,new A.bM(B.a9,g,g,B.bj,k,g,B.I),l,g,g,l)
+k=h.a.e*0.12
+j=A.a([new A.cO(0,B.aj,A.ao(d,0,0,0),B.av,5)],c)
+r=A.bF(g,A.eR(A.a([s,A.bF(g,new A.J6(B.N3,r*0.01,A.a([e,o,m,l,A.bF(g,A.oB(A.hV(30),A.jd(n[4],g,g,g)),g,new A.bM(B.a9,g,g,B.bj,j,g,B.I),k,g,g,k)],p),g),g,g,g,g,g,r*0.9)],p),B.x,B.af,B.u),g,g,r*0.15,g,g,r)
+k=h.a.e
+j=A.br("UiTM Line Up",g,g,g,g,g,g)
+n=k*0.12
 n=A.bF(g,g,g,new A.bM(B.a9,g,g,B.bj,A.a([new A.cO(0,B.aj,A.ao(d,0,0,0),B.av,5)],c),g,B.I),n,g,g,n)
-o=h.a.e*0.12
-l=A.ud(A.eR(A.a([new A.dJ(new A.aG(0,0,0,f*0.02),q,g),r,A.bF(g,A.eR(A.a([k,A.bF(g,A.cV(A.a([m,n,A.bF(g,g,g,new A.bM(B.a9,g,g,B.bj,A.a([new A.cO(0,B.aj,A.ao(d,0,0,0),B.av,5)],c),g,B.I),o,g,g,o)],p),B.x,B.bS,B.u),g,g,g,g,g,l*0.4)],p),B.x,B.af,B.u),g,g,l*0.15,g,g,l)],p),B.x,B.af,B.u),g,g)
+l=h.a.e*0.12
+l=A.bF(g,g,g,new A.bM(B.a9,g,g,B.bj,A.a([new A.cO(0,B.aj,A.ao(d,0,0,0),B.av,5)],c),g,B.I),l,g,g,l)
+m=h.a.e*0.12
+k=A.ud(A.eR(A.a([new A.dJ(new A.aG(0,0,0,f*0.02),q,g),r,A.bF(g,A.eR(A.a([j,A.bF(g,A.cV(A.a([n,l,A.bF(g,g,g,new A.bM(B.a9,g,g,B.bj,A.a([new A.cO(0,B.aj,A.ao(d,0,0,0),B.av,5)],c),g,B.I),m,g,g,m)],p),B.x,B.bS,B.u),g,g,g,g,g,k*0.4)],p),B.x,B.af,B.u),g,g,k*0.15,g,g,k)],p),B.x,B.af,B.u),g,g)
 if(h.r){f=h.a.e
 e=A.dF(B.uH,new A.a6T(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a9,g,B.a4,g,g,g,g))
 d=f*0.25
@@ -63086,33 +63087,33 @@ n=h.a.e
 o=n*0.015
 q=A.cv(A.br("S",g,g,g,B.aA,g,g),n*0.01,o)
 m=A.dF(B.cx,new A.a71(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))
-k=A.u1(B.ck)
-s=A.cv(A.cV(A.a([r,A.cV(A.a([q,m,A.bF(g,A.br(B.h.i(h.w),g,g,g,B.aA,B.b_,g),g,new A.bM(g,g,k,g,g,g,B.I),o,g,g,n*0.027),A.dF(B.cy,new A.a72(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))],p),B.x,B.b7,B.u)],p),B.x,B.bS,B.u),s*0.02,s*0.3)
+l=A.u1(B.ck)
+s=A.cv(A.cV(A.a([r,A.cV(A.a([q,m,A.bF(g,A.br(B.h.i(h.w),g,g,g,B.aA,B.b_,g),g,new A.bM(g,g,l,g,g,g,B.I),o,g,g,n*0.027),A.dF(B.cy,new A.a72(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))],p),B.x,B.b7,B.u)],p),B.x,B.bS,B.u),s*0.02,s*0.3)
 n=h.a.e
 o=n*0.015
-k=A.cv(A.br("M",g,g,g,B.aA,g,g),n*0.01,o)
+l=A.cv(A.br("M",g,g,g,B.aA,g,g),n*0.01,o)
 m=A.dF(B.cx,new A.a73(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))
 q=A.u1(B.ck)
-o=A.cV(A.a([k,m,A.bF(g,A.br(B.h.i(h.w),g,g,g,B.aA,B.b_,g),g,new A.bM(g,g,q,g,g,g,B.I),o,g,g,n*0.027),A.dF(B.cy,new A.a74(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))],p),B.x,B.b7,B.u)
+o=A.cV(A.a([l,m,A.bF(g,A.br(B.h.i(h.w),g,g,g,B.aA,B.b_,g),g,new A.bM(g,g,q,g,g,g,B.I),o,g,g,n*0.027),A.dF(B.cy,new A.a74(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))],p),B.x,B.b7,B.u)
 q=h.a.e
 m=q*0.015
-k=A.cv(A.br("L",g,g,g,B.aA,g,g),q*0.01,m)
+l=A.cv(A.br("L",g,g,g,B.aA,g,g),q*0.01,m)
 r=A.dF(B.cx,new A.a75(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))
 j=A.u1(B.ck)
-n=A.cv(A.cV(A.a([o,A.cV(A.a([k,r,A.bF(g,A.br(B.h.i(h.w),g,g,g,B.aA,B.b_,g),g,new A.bM(g,g,j,g,g,g,B.I),m,g,g,q*0.027),A.dF(B.cy,new A.a6U(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))],p),B.x,B.b7,B.u)],p),B.x,B.bS,B.u),n*0.02,n*0.3)
+n=A.cv(A.cV(A.a([o,A.cV(A.a([l,r,A.bF(g,A.br(B.h.i(h.w),g,g,g,B.aA,B.b_,g),g,new A.bM(g,g,j,g,g,g,B.I),m,g,g,q*0.027),A.dF(B.cy,new A.a6U(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))],p),B.x,B.b7,B.u)],p),B.x,B.bS,B.u),n*0.02,n*0.3)
 q=h.a.e
 m=q*0.015
 j=A.cv(A.br("XL",g,g,g,B.aA,g,g),q*0.01,m)
 r=A.dF(B.cx,new A.a6V(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))
-k=A.u1(B.ck)
-m=A.cV(A.a([j,r,A.bF(g,A.br(B.h.i(h.w),g,g,g,B.aA,B.b_,g),g,new A.bM(g,g,k,g,g,g,B.I),m,g,g,q*0.027),A.dF(B.cy,new A.a6W(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))],p),B.x,B.b7,B.u)
-k=h.a.e
-r=k*0.015
-j=A.cv(A.br("3XL",g,g,g,B.aA,g,g),k*0.01,r)
+l=A.u1(B.ck)
+m=A.cV(A.a([j,r,A.bF(g,A.br(B.h.i(h.w),g,g,g,B.aA,B.b_,g),g,new A.bM(g,g,l,g,g,g,B.I),m,g,g,q*0.027),A.dF(B.cy,new A.a6W(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))],p),B.x,B.b7,B.u)
+l=h.a.e
+r=l*0.015
+j=A.cv(A.br("3XL",g,g,g,B.aA,g,g),l*0.01,r)
 o=A.dF(B.cx,new A.a6X(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))
 i=A.u1(B.ck)
-f=A.ld(B.bg,A.a([A.bF(g,new A.dJ(B.zz,A.eR(A.a([new A.iW(B.vb,g,g,e,g),new A.iW(B.ad,g,g,A.cV(A.a([d,new A.dJ(B.zt,A.eR(A.a([c,s,n,A.cv(A.cV(A.a([m,A.cV(A.a([j,o,A.bF(g,A.br(B.h.i(h.w),g,g,g,B.aA,B.b_,g),g,new A.bM(g,g,i,g,g,g,B.I),r,g,g,k*0.027),A.dF(B.cy,new A.a6Y(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))],p),B.x,B.b7,B.u)],p),B.x,B.bS,B.u),q*0.02,q*0.3)],p),B.x,B.af,B.u),g)],p),B.x,B.af,B.u),g)],p),B.x,B.af,B.u),g),g,B.vy,f*0.4,g,g,f*0.6)],p),B.bw)}else f=g
-return A.afj(B.f6,A.ld(B.bg,A.a([l,A.ud(f,g,g)],p),B.bw))}}
+f=A.ld(B.bg,A.a([A.bF(g,new A.dJ(B.zz,A.eR(A.a([new A.iW(B.vb,g,g,e,g),new A.iW(B.ad,g,g,A.cV(A.a([d,new A.dJ(B.zt,A.eR(A.a([c,s,n,A.cv(A.cV(A.a([m,A.cV(A.a([j,o,A.bF(g,A.br(B.h.i(h.w),g,g,g,B.aA,B.b_,g),g,new A.bM(g,g,i,g,g,g,B.I),r,g,g,l*0.027),A.dF(B.cy,new A.a6Y(h),A.dr(g,g,g,g,g,g,g,g,g,B.k,g,g,B.a8,g,B.a4,g,g,g,g))],p),B.x,B.b7,B.u)],p),B.x,B.bS,B.u),q*0.02,q*0.3)],p),B.x,B.af,B.u),g)],p),B.x,B.af,B.u),g)],p),B.x,B.af,B.u),g),g,B.vy,f*0.4,g,g,f*0.6)],p),B.bw)}else f=g
+return A.afj(B.f6,A.ld(B.bg,A.a([k,A.ud(f,g,g)],p),B.bw))}}
 A.a6R.prototype={
 $0(){var s=this.a
 A.pR(s).tJ(0,null)
@@ -63124,7 +63125,7 @@ s.a9(new A.a6I(s))},
 $S:0}
 A.a6I.prototype={
 $0(){var s=this.a
-s.f="assets/images/product/product-a1.jpg"
+s.f=s.e[0]
 s.r=!0},
 $S:0}
 A.a6T.prototype={
